@@ -1,12 +1,13 @@
 .vi{
-    border:8px solid yellow;
+    border:13px solid yellow;
     width: 200px;
     padding: 10px;
   
 }
 .la{
-    border:8px solid yellow;
+    border:13px solid yellow;
     width: 200px;
     padding:10px;
-    margin:auto;
+    margin:15px 18%;
+   
 }
